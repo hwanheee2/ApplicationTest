@@ -16,7 +16,7 @@ public class SearchMaxTest {
 
 		assertEquals("testSearchMax1", 4, testSearchMax.searchMax(arr1));
 		assertEquals("testSearchMax2", -1, testSearchMax.searchMax(arr2));
-//
+
 	}
 
 }
